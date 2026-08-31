@@ -90,6 +90,40 @@ void loop() {
   digitalWrite(four, LOW);
   digitalWrite(eight, HIGH);
   delay(delayStop);
+
+  // 11
+  digitalWrite(one, HIGH);
+  digitalWrite(two, HIGH);
+  digitalWrite(four, LOW);
+  digitalWrite(eight, HIGH);
+  delay(delayStop);
+
+  // 12
+  digitalWrite(one, LOW);
+  digitalWrite(two, LOW);
+  digitalWrite(four, HIGH);
+  digitalWrite(eight, HIGH);
+  delay(delayStop);
+
+  // 13
+  digitalWrite(one, HIGH);
+  digitalWrite(two, LOW);
+  digitalWrite(four, HIGH);
+  digitalWrite(eight, HIGH);
+  delay(delayStop);
+
+  // 14
+  digitalWrite(one, LOW);
+  digitalWrite(two, HIGH);
+  digitalWrite(four, HIGH);
+  digitalWrite(eight, HIGH);
+  delay(delayStop);
+
+  // 15
+  digitalWrite(one, HIGH);
+  digitalWrite(two, HIGH);
+  digitalWrite(four, HIGH);
+  digitalWrite(eight, HIGH);
   delay(delayStop);
 
   // confirmation

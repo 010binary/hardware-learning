@@ -24,7 +24,7 @@ void displayNumber(int num) {
 void loop() {
   displayNumber(15);  // confirmation (all bits on)
   
-  for(int i = 1; i <= 10; i++) {
+  for(int i = 1; i <= 15; i++) {
     displayNumber(i);
   }
   
