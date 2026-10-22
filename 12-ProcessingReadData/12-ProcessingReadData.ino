@@ -3,7 +3,7 @@ String const message2 = "How many times do you want to blink this LED?";
 String answer1;
 int answer2;
 
-int const baudrate = 115200;
+int const baudrate = 9600;
 
 int green = 32;
 int red = 33;
